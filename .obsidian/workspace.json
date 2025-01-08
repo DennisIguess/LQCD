@@ -6,7 +6,6 @@
       {
         "id": "7a602598ae43d26b",
         "type": "tabs",
-        "dimension": 58.33333333333333,
         "children": [
           {
             "id": "7c534178401cc095",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LQCD Important stuff.md",
+                "file": "Chapters/Chapter 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LQCD Important stuff"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f9876766410ca777",
-        "type": "tabs",
-        "dimension": 41.666666666666664,
-        "children": [
-          {
-            "id": "c3a739f26766fbaa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Chapter 5"
             }
           }
         ]
@@ -95,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f4aaa99828f01e6",
@@ -180,10 +163,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a739f26766fbaa",
+  "active": "7c534178401cc095",
   "lastOpenFiles": [
-    "LQCD Important stuff.md",
-    "Chapters/Chapter 12.md",
     "Chapters/Chapter 11.md",
     "Chapters/Chapter 10.md",
     "Chapters/Chapter 9.md",
@@ -195,6 +176,8 @@
     "Chapters/Chapter 3.md",
     "Chapters/Chapter 2.md",
     "Chapters/Chapter 1.md",
+    "LQCD Important stuff.md",
+    "Chapters/Chapter 12.md",
     "Untitled",
     "Chapters"
   ]

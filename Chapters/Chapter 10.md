@@ -8,4 +8,9 @@
 	- related to quark propagators
 - don't focus on derivations here
 - little focus on Grassman variables is okay
-- No about fermion doublers(?) when taking naive integral
+- Know about fermion doublers(?) when taking naive integral
+
+
+# Notes
+
+- Mainly look into his version of the Wick theorem again, derivation and try to compare to regular known Wick theorem

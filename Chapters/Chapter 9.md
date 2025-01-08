@@ -10,6 +10,11 @@
 - Going to continuum limit = second order phase transition!!!!
 - $\beta$-function
 - Renormalisation group
-- Simanzik-equation
+- Symanzik-equation
 - Continuum trajctory
 	- Lattices for multiple $\beta$, larger $\beta$, smaller lattice spacing, extrapolate to continuum limit
+
+
+# Notes
+- Really should look into definitions of $\beta$-function, core QCD stuff
+- Lots of things that need to be looked at in detail

@@ -13,3 +13,17 @@
 - Should know about momentum eigenstates
 - Momentum operator generates translations in space
 - Try to relate this chapter to normal QM
+
+
+# Notes
+
+- canonical variables, Euler-Lagrange, their quantisation (canonical)
+- Hamiltonian from Lagrangian via Legendre transformation
+- global and local Metropolis:
+	- global: small changes for each lattice point, no acceptance otherwise, high autocorrelation
+	- local: change grid points individually, better for large volumes, reduced autocorrelation times
+- Momentum eigenstates:
+	- Existence
+	- Definition
+	- Properties
+- Momentum operator as generator of spatial translations
