@@ -22,6 +22,8 @@
 - global and local Metropolis:
 	- global: small changes for each lattice point, no acceptance otherwise, high autocorrelation
 	- local: change grid points individually, better for large volumes, reduced autocorrelation times
+	- topological freezing: config has global attributes, local changes only cannot alter, e.g., topological charge; in this situation we want to use global updates
+- For heatbath, only know general idea, details and implementation not really relevant
 - Momentum eigenstates:
 	- Existence
 	- Definition
