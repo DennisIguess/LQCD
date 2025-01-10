@@ -1,3 +1,0 @@
-inoremap kj <Esc>
-
-nnoremap - /
