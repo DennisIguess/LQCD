@@ -11,7 +11,7 @@
 - $\beta$-function
 - Renormalisation group
 - Symanzik-equation
-- Continuum trajctory
+- Continuum trajectory
 	- Lattices for multiple $\beta$, larger $\beta$, smaller lattice spacing, extrapolate to continuum limit
 
 

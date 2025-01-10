@@ -1,7 +1,7 @@
 # Chrissi's Comments
 
 - Standalone introduction to statistics
-	- Baye's theorem, probability distributions, etc.
+	- Bayes' theorem, probability distributions, etc.
 	- Central limit theorem, etc.
 - To be impressive: biases
 - Jackknife:
