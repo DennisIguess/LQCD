@@ -1,0 +1,2 @@
+- Ginsparg-Wilson only for PhD level
+- anomalous symmetry $\rightarrow$ not from this chapter, but should know about it
