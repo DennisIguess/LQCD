@@ -20,3 +20,4 @@
 - Really should look into definitions of $\beta$-function, core QCD stuff
 - Lots of things that need to be looked at in detail
 - Look into critical surface again
+- Generating ensembles is covered here $\rightarrow$ needed every time we need some quenched configuration, etc.
